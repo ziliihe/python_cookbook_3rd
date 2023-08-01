@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='ASCII'?>
+<catalog>
+  <book id="001">
+    <author>John Doe</author>
+    <title>The Ultimate Guide to XML</title>
+    <genre>Technical</genre>
+    <price>19.99</price>
+    <publish_date>2000-10-01</publish_date>
+    <description>A comprehensive guide to using XML for data exchange.</description>
+  </book>
+  <book id="002">
+    <author>Jane Smith</author>
+    <title>XML and Web Services</title>
+    <genre>Technical</genre>
+    <price>24.99</price>
+    <publish_date>2002-08-01</publish_date>
+    <description>An introduction to using XML with web services.</description>
+  <copy>300</copy></book>
+<sales>100</sales><sales>100</sales><sales>100</sales><sales>100</sales></catalog>
